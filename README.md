@@ -1,2 +1,3 @@
-# .github
-GitHub frontpage
+# About
+
+Highpoint Weather
